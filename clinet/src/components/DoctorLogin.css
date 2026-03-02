@@ -1,0 +1,14 @@
+.login-container {
+  height: 100vh;
+  background: linear-gradient(to right, #1f2b6c, #2c5cc5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-card {
+  background: white;
+  padding: 40px;
+  width: 350px;
+  border-radius: 15px;
+}
